@@ -4,7 +4,7 @@ Plugin Name: MoneyUnify WooCommerce Payment Gateway
 Plugin URI: https://github.com/MoneyUnify/MoneyUnify-Woocommerce
 Description: Take payments via MoneyUnify on your WooCommerce store.
 Version: 0.0.1
-Author: Kazasim Kuzasuwat
+Author: Kazzashim Kuzasuwat
 Author URI: https://moneyunify.com
 */
 
