@@ -33,6 +33,28 @@ The WooCommerce MoneyUnify Payment Gateway plugin enables seamless integration o
 3. After successful payment, orders will be automatically updated based on the transaction status.
 4. You can verify transaction status from the WooCommerce dashboard.
 
+### Upcoming Features
+
+#### 1. Payment Disbursement
+- Enable payment disbursement functionality to facilitate easy transfer of funds to merchants' accounts.
+- Ensure secure and efficient processing of disbursements to enhance user experience.
+
+#### 2. WooCommerce Subscription Integration
+- Integrate with WooCommerce Subscriptions to support recurring payments for subscription-based products.
+- Enable seamless subscription management for both merchants and customers.
+
+#### 3. SMS Notification for Payment and Order Completion
+- Implement SMS notification feature to notify merchants and customers about payment and order completion.
+- Enhance communication and provide real-time updates to stakeholders for better transaction management.
+
+### Checklist
+- [x] WooCommerce Payment Collection: Done
+- [ ] Payment Disbursement
+- [ ] WooCommerce Subscription Integration
+- [ ] SMS Notification for Payment and Order Completion
+
+**Note:** Keep an eye on our updates for these upcoming features to further enhance your MoneyUnify experience!
+
 ## Support
 
 For support and inquiries, please contact [MoneyUnify Support](https://www.moneyunify.com/support).
